@@ -4,7 +4,6 @@
     "classes": [
       {
         "name": "Brute",
-        "expansion": "Gloomhaven",
         "images": {
           "mat": {
             "front": "character-mats/gloomhaven/gh-brute.png",
@@ -14,7 +13,6 @@
       },
       {
         "name": "Cragheart",
-        "expansion": "Gloomhaven",
         "images": {
           "mat": {
             "front": "character-mats/gloomhaven/gh-cragheart.png",
@@ -24,7 +22,6 @@
       },
       {
         "name": "Mindthief",
-        "expansion": "Gloomhaven",
         "images": {
           "mat": {
             "front": "character-mats/gloomhaven/gh-mindthief.png",
@@ -34,7 +31,6 @@
       },
       {
         "name": "Scoundrel",
-        "expansion": "Gloomhaven",
         "images": {
           "mat": {
             "front": "character-mats/gloomhaven/gh-scoundrel.png",
@@ -44,7 +40,6 @@
       },
       {
         "name": "Spellweaver",
-        "expansion": "Gloomhaven",
         "images": {
           "mat": {
             "front": "character-mats/gloomhaven/gh-spellweaver.png",
@@ -54,7 +49,6 @@
       },
       {
         "name": "Tinkerer",
-        "expansion": "Gloomhaven",
         "images": {
           "mat": {
               "front": "character-mats/gloomhaven/gh-tinkerer.png",
