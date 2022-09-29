@@ -1,6 +1,7 @@
 [
   {
     "name": "Gloomhaven",
+    "key": "gloomhaven",
     "classes": [
       {
         "name": "Brute",
