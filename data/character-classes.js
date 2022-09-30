@@ -2,6 +2,7 @@
   {
     "name": "Gloomhaven",
     "key": "gloomhaven",
+    "enabled": true,
     "classes": [
       {
         "name": "Beast Tyrant",
